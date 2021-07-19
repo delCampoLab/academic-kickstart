@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: ocean
+theme: my_theme
 day_night: true
 font: ''
 font_size: L
@@ -141,11 +141,11 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
-  api_key: ''
+  provider: Google Maps
+  api_key: AIzaSyCn3Epm5Su_16W7fIxzb3HLRsyWp1GFA3M
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: UA-1205758-11
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
