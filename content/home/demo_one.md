@@ -50,4 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-The **del Campo Lab** studies the ecology and evolution of marine animals microbiomes and how they are affected by climate change.
+The **del Campo Lab** studies the ecology and evolution of animals microbiomes and how they are affected by climate change.
