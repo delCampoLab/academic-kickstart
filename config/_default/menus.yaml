@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: '#demo_one'
     weight: 10
   - name: People
     url: 'people/'
@@ -13,8 +13,8 @@ main:
   #- name: Posts
   #  url: '#posts'
   #  weight: 30
-  - name: Projects
-    url: 'project/'
+  - name: Research
+    url: 'pages/research'
     weight: 40
   #- name: Talks
   #  url: '#talks'
@@ -22,9 +22,16 @@ main:
   - name: Publications
     url: '#featured'
     weight: 60
-  - name: Contact
-    url: '#contact'
+  - name: Join the Lab
     weight: 70
+      - parent: Join the Lab
+        name: Contact
+        url: 'page/fellowships/'
+        weight: 10
+      - parent: Join the Lab
+        name: Contact
+        url: '#contact'
+        weight: 20
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
