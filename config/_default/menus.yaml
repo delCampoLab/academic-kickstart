@@ -14,7 +14,7 @@ main:
   #  url: '#posts'
   #  weight: 30
   - name: Research
-    url: 'pages/research'
+    url: 'page/research'
     weight: 40
   #- name: Talks
   #  url: '#talks'
@@ -23,15 +23,16 @@ main:
     url: '#featured'
     weight: 60
   - name: Join the Lab
+    identifier: join
     weight: 70
-      - parent: Join the Lab
-        name: Contact
-        url: 'page/fellowships/'
-        weight: 10
-      - parent: Join the Lab
-        name: Contact
-        url: '#contact'
-        weight: 20
+  - name: Fellowships
+    parent: join
+    url: 'page/fellowships/'
+    weight: 10
+  - name: Contact
+    parent: join
+    url: '#contact'
+    weight: 20
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
