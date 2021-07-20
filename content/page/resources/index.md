@@ -13,19 +13,37 @@ header:
   caption: ""
   image: ""
 ---
+### Friends and collaborators
+
+* [Bass Lab](https://www.cefas.co.uk/icoe/aquatic-animal-health/our-specialisms/microbial-diversity/)
+* [Burki Lab](https://www.burki-lab.net/)
+* [Carranza Lab](http://molevol.cmima.csic.es/carranza/index.html)
+* [Ecology of Marine Microbes](https://emm.icm.csic.es/)
+* [Keeling Lab](http://www3.botany.ubc.ca/keeling/)
+* [Kwong Lab](https://www.kwonglab.com/)
+* [Medina Lab](http://medinalab.org/new/)
+* [Medrecover](https://medrecover.org/)
+* [Moreno Lab](https://vibriocholerae.org/)
+* [Multicellgenome Lab](https://multicellgenome.com/)
+* [Richards Lab](https://protists.co.uk/index.html)
+
 
 ### Scientific Societies
 
 * [American Academy of Underwater Sciences](https://aaus.org/)
 * [American Society for Microbiology](https://www.asm.org/)
-  *  [American Society for Microbiology Florida Branch](https://www.flasm.org/)
-* [American Society of Parasitologists](http://amsocparasit.org/)
 * [Asociación Latinoamericana de Microbiología](https://alam.science/)
 * [Association for the Sciences of Limnology and Oceanography](https://www.aslo.org/)
+* [Bioinformatics Barcelona](https://www.bioinformaticsbarcelona.eu/)
+* [European Federation of Parasitologists](http://www.eurofedpar.eu/)
+* [Federation of European Microbiological Societies](https://fems-microbiology.org/)
+* [Federation of European Protistological Societies](https://fepseu.org/)
 * [Iberian Society of Ecology](http://www.sibecol.org/en/)
 * [International Society for Microbial Ecology](https://www.isme-microbes.org/)
 * [International Coral Reef Society](http://coralreefs.org/)
 * [International Society of Protistologists](https://protistologists.org/)
+* [Internacional Symbiosis Society](http://iss-symbiosis.org/)
+* [Societat Catalana de Biologia](https://scb.iec.cat/)
 * [Society for Molecular Biology and Evolution](https://www.smbe.org/smbe/)
 
 ### Culture collections
@@ -51,14 +69,15 @@ header:
 ### Meetings
 
 #### 2022
-  *  [ICRS 2022](http://www.icrs2021.de/), TBA, Bremen, Germany
+  *  [ALAM 2022](https://alam.science/) TBA
   *  [GRC Marine Microbes](https://www.grc.org/marine-microbes-conference/) TBA
   *  [ISME 19](http://isme-microbes.org/) TBA
+  *  [ICRS 2022](http://www.icrs2021.de/), TBA, Bremen, Germany
 
 #### 2023
-  *  [ASM Microbe 2023](https://www.asm.org/Events/ASM-Microbe/Home), June 15 – 19, Houston, TX, USA
   *  [GRC Animal Microbes Symbiosis](https://www.grc.org/animal-microbe-symbioses-conference/) TBA
   *  [GRC Marine Molecular Ecology](https://www.grc.org/marine-molecular-ecology-conference/) TBA
+  *  [ASM Florida Branch Annual Meeting 2023](https://www.flasm.org/) TBA
 
 ### Workshops
 
