@@ -5,55 +5,55 @@
 
 # Appearance
 
-theme: minimal
+theme: my_theme
 day_night: true
 font: ''
 font_size: L
 
 # SEO
 
-site_type: Person
+site_type: EducationalOrganization
 local_business_type: ''
-org_name: ''
-description: ''
-twitter: ''
+org_name: del Campo Lab
+description: Microbial Ecology and Evolution laboratory at the Institut de Biologia Evolutiva (CSIC-UPF)
+twitter: delCampoLab
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: jdelcampo@ibe.upf-csic.es
+phone: +34 93 542 20 00
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Passeig de la Barceloneta 37-49
+  city: Barcelona
+  region: Catalonia
+  postcode: '08003'
+  country: Spain
+  country_code: ES
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  latitude: '41.38529870028162'
+  longitude: '2.1963520523517723'
+directions: Take the stairs to the second floor and ask, I still don't know where my office is...
+#office_hours:
+#  - 'Monday 10:00 to 13:00'
+#  - 'Wednesday 09:00 to 10:00'
+#appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/delCampoLab'
   - icon: skype
     icon_pack: fab
     name: Skype Me
-    link: 'skype:echo123?call'
+    link: 'skype:fonamental;'
   - icon: keybase
     icon_pack: fab
     name: Chat on Keybase
     link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on Forum
+#    link: 'https://discourse.gohugo.io'
 
 # Site header
 
@@ -141,11 +141,11 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
-  api_key: ''
+  provider: Google Maps
+  api_key: AIzaSyCn3Epm5Su_16W7fIxzb3HLRsyWp1GFA3M
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: UA-1205758-11
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
