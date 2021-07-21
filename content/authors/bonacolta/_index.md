@@ -32,21 +32,15 @@ education:
   - course: BSc in Microbiology & Immunology, BSc in Marine and Atmospheric Science (graduated with honors)
     institution: University of Miami
     year: 2019
-#  - course: DEA in Environmental Micorbiology and Biotechnology
-#    institution: Universitat de Barcelona
-#    year: 2005
-#  - course: BSc in Biology
-#    institution: Universitat de Barcelona
-#    year: 2003
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:anthony.bonacolta@rsmas.miami.edu"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:anthony.bonacolta@rsmas.miami.edu"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AMBonacolta
