@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Javier del Campo
+name: Javier del Campo
 
 # Username (this should match the folder name)
 authors:
@@ -10,22 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Group Leader
+role: "Assistant Professor of Microbial Ecology and Evolution"
 
 # Organizations/Affiliations
 organizations:
-- name: Institute of Evolutionary Biology UPF-CSIC
-  url: "https://www.ibe.upf-csic.es/"
+- name: Rosentiel School of Marine and Atmospheric Science - University of Miami
+  url: "https://www.rsmas.miami.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
+bio: "Javier del Campo is a Catalan microbial ecologists and Assistant Professor at the Rosenstiel School of Marine and Atmospheric Science at the University of Miami. He completed hi Bachelors and his PhD in Environmental Microbiology and Biotechnology at the University of Barcelona, followed by postdoctoral research at the Institute for Evolutionary Biology (Barcelona), the University of British Columbia (Vancouver) and the Institute of Marine Science (Barcelona)."
 
 interests:
 - Microbial Ecology
 - Microbial Evolution
-- Microbiome
-- Microeukaryotes
-- Climate Change
 - eDNA
 
 education:
@@ -47,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:jdelcampo@ibe.upf-csic.es"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:jdelcampo@rsmas.miami.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/fonamental
@@ -85,4 +82,4 @@ email: ""
 user_groups:
 - Administrator
 ---
-I am a Catalan microbial ecologist and Group Leader at the Institute of Evolutionary Biology (UPF-CSIC) in Barcelona. I completed my bachelor's and my Ph.D. in Environmental Microbiology and Biotechnology at the Institute of Marine Science - CSIC (Barcelona), followed by postdoctoral research at the University of Barcelona, the University of British Columbia (Vancouver), and back to the Institute of Marine Science. In February 2019 I joined as Assistant Professor the Rosenstiel School of Marine and Atmospheric Science at the University of Miami and in February 2021 I joined the Institute for Evolutionary Biology. My research has focused on the study of the ecology and evolution of microbial eukaryotes but recently, I have expanded my scope to the prokaryotes in order to have an integrated view of the microbiome. I am currently investigating microbial community ecology in marine animal-associated environments using cutting-edge sequencing technologies and computational biology. I hope that my research can help to have a better understanding of the role that microorganisms play in the response of animals to climate change.
+Javier del Campo is a Catalan microbial ecologists and Assistant Professor at the Rosenstiel School of Marine and Atmospheric Science at the University of Miami. He completed hi Bachelors and his PhD in Environmental Microbiology and Biotechnology at the University of Barcelona, followed by postdoctoral research at the Institute for Evolutionary Biology (Barcelona), the University of British Columbia (Vancouver) and the Institute of Marine Science (Barcelona). He joined the Marine Ecology and Biology Department at the University of Miami in 2019. My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa. Through the use of novel culturing and isolation approaches and single-cell genomics, I also study uncultured species to discover new biological processes and their ecological implications. My experience generating and analyzing next-generation sequencing data allows me to use genome-scale data to address a multitude of questions on the diversity and distribution of microbes across natural environments. I am currently investigating microbial community ecology in marine animal-associated environments using cutting edge sequencing technologies and computational biology. My knowledge of eukaryote diversity is proving to be a vital resource as I develop the infrastructure necessary to incorporate microeukaryotes into microbial ecology studies in a phylogeny informed manner.

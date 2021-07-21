@@ -86,7 +86,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Graduate Students
 ---
 
 I graduated from Stockton University in 2017 with a B.S. in Marine Science and Biology. I then went on to obtain my Master of Arts in Teaching at Monmouth University in 2019 before entering RSMAS as an MPS student in August of the same year. My current work is looking at the microbiome of the reef-building coral **Orbicella faveolata** and assembling partial genomes of the microeukaryotes that are present within it. Based on my findings, we may be able to see if reef-building corals have their microbiome communities affected by stressors and which organisms are affected more so. In my off time I enjoy Scuba Diving, learning about sharks, playing video games, and watching sports.
