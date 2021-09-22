@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raquel Rodrı́guez-Martínez | del Campo Lab</title>
+    <link>https://delcampolab.github.io/authors/raquel-rodr%C4%B1guez-martinez/</link>
+      <atom:link href="https://delcampolab.github.io/authors/raquel-rodr%C4%B1guez-martinez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raquel Rodrı́guez-Martínez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://delcampolab.github.io/media/logo_hu35114a07a97a1328964a3f30afe3dbb0_47890_300x300_fit_lanczos_2.png</url>
+      <title>Raquel Rodrı́guez-Martínez</title>
+      <link>https://delcampolab.github.io/authors/raquel-rodr%C4%B1guez-martinez/</link>
+    </image>
+    
+    <item>
+      <title>Distribution of the uncultured protist MAST-4 in the Indian Ocean, Drake Passage and Mediterranean Sea assessed by real-time quantitative PCR</title>
+      <link>https://delcampolab.github.io/publication/rodriguez-2009-distribution/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://delcampolab.github.io/publication/rodriguez-2009-distribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome analysis of the proteorhodopsin-containing marine bacterium Polaribacter sp. MED152 (Flavobacteria)</title>
+      <link>https://delcampolab.github.io/publication/gonzalez-2008-genome/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://delcampolab.github.io/publication/gonzalez-2008-genome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

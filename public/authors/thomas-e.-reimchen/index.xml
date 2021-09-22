@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas E. Reimchen | del Campo Lab</title>
+    <link>https://delcampolab.github.io/authors/thomas-e.-reimchen/</link>
+      <atom:link href="https://delcampolab.github.io/authors/thomas-e.-reimchen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas E. Reimchen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://delcampolab.github.io/media/logo_hu35114a07a97a1328964a3f30afe3dbb0_47890_300x300_fit_lanczos_2.png</url>
+      <title>Thomas E. Reimchen</title>
+      <link>https://delcampolab.github.io/authors/thomas-e.-reimchen/</link>
+    </image>
+    
+    <item>
+      <title>Fish Parasite Dinoflagellates Haidadinium ichthyophilum and Piscinoodinium Share a Recent Common Ancestor</title>
+      <link>https://delcampolab.github.io/publication/hehenberger-2018-fish/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://delcampolab.github.io/publication/hehenberger-2018-fish/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

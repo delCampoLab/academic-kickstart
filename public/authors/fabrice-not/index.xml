@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fabrice Not | del Campo Lab</title>
+    <link>https://delcampolab.github.io/authors/fabrice-not/</link>
+      <atom:link href="https://delcampolab.github.io/authors/fabrice-not/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fabrice Not</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://delcampolab.github.io/media/logo_hu35114a07a97a1328964a3f30afe3dbb0_47890_300x300_fit_lanczos_2.png</url>
+      <title>Fabrice Not</title>
+      <link>https://delcampolab.github.io/authors/fabrice-not/</link>
+    </image>
+    
+    <item>
+      <title>Taming the smallest predators of the oceans</title>
+      <link>https://delcampolab.github.io/publication/delcampo-2013-taming/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://delcampolab.github.io/publication/delcampo-2013-taming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Insights into the Diversity of Marine Picoeukaryotes</title>
+      <link>https://delcampolab.github.io/publication/not-2009-new/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://delcampolab.github.io/publication/not-2009-new/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

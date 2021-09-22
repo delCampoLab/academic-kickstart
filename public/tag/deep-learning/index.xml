@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | del Campo Lab</title>
+    <link>https://delcampolab.github.io/tag/deep-learning/</link>
+      <atom:link href="https://delcampolab.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://delcampolab.github.io/media/logo_hu35114a07a97a1328964a3f30afe3dbb0_47890_300x300_fit_lanczos_2.png</url>
+      <title>Deep Learning</title>
+      <link>https://delcampolab.github.io/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Koch at the reef - Understanding coral disease</title>
+      <link>https://delcampolab.github.io/project/disease/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://delcampolab.github.io/project/disease/</guid>
+      <description>&lt;p&gt;Corals, specifically scleractinians from tropical regions are declining at alarming rates due to global climate change induced ocean warming and acidification. Corals, like other animals, contain rich microbiota found within various anatomical compartments (i.e. surface mucopolysaccharide layer, epidermal polyp tissue, gastrovascular cavity, and skeletal CaCO3 matrix) that are heavily dependent on surrounding environmental conditions. The community of microbes in association with the host, defined as the “microbiome”, is a conglomeration of eukaryotic (fungi and protists, such as endolithic microalgae), prokaryotic (archaea and bacteria) microorganisms, and viruses. The microbiome and the host together make up the “holobiont”, a term that encompasses the intricate relationships and interactions between host-microbe, and microbe-microbe within the coral ecosphere. The microbial communities present among the anatomy of a coral are composed of commensal, long-term, stable partners that co-evolve with the coral host and short-term, more variable taxa that may or may not serve functionality within the holobiont. Upon severe shifts in environmental conditions (i.e. climate change induced sea surface temperature increases), opportunistic alien pathogens may proliferate within the coral holobiont leading to disease and/or death. In addition to alien pathogens proliferating upon environmental shifts, long-term or passively adhering opportunistic microbes, that under stable environmental parameters are neutral holobiont members, become pathogenic - a term coined “dysbiosis”. This relatively recent hypothesis has the potential to restructure how we look at disease and develop methods to identify pathogens. Despite the first disease being described in 1973, to date there are no definitive causative agents responsible for coral disease. To complicate matters, the misidentification of coral diseases places the number of disease types to remain unknown as well. The reason is primarily due to the variation in how diseases affect different coral species, leading to multiple classifications for diseases that may have the same causative agents (etiology). There is a clear knowledge gap in our understanding of coral disease etiology, which happens to be the best information to effectively manage coral disease outbreaks (e.g. scleratinian coral tissue loss disease) worldwide. The demand for a reproducible, sensitive, and effective method of pathogen identification in the field of coral microbiology is apparent, however the field of human pathology uses a combination of culture-based techniques, imaging, and next generation sequencing of nucleic acids. Therefore, if a defined workflow could be produced, the process of disease identification would be not only advanced, but also accessible to other researchers, aiding in coral disease management and mitigation globally.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

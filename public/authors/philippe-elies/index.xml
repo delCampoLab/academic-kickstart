@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philippe Elies | del Campo Lab</title>
+    <link>https://delcampolab.github.io/authors/philippe-elies/</link>
+      <atom:link href="https://delcampolab.github.io/authors/philippe-elies/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philippe Elies</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://delcampolab.github.io/media/logo_hu35114a07a97a1328964a3f30afe3dbb0_47890_300x300_fit_lanczos_2.png</url>
+      <title>Philippe Elies</title>
+      <link>https://delcampolab.github.io/authors/philippe-elies/</link>
+    </image>
+    
+    <item>
+      <title>Intracellular Infection of Diverse Diatoms by an Evolutionary Distinct Relative of the Fungi</title>
+      <link>https://delcampolab.github.io/publication/chambouvet-2019-intracellular/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://delcampolab.github.io/publication/chambouvet-2019-intracellular/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

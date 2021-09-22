@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ayoub Adib | del Campo Lab</title>
+    <link>https://delcampolab.github.io/authors/adib/</link>
+      <atom:link href="https://delcampolab.github.io/authors/adib/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ayoub Adib</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://delcampolab.github.io/authors/adib/avatar_huc6e3985577a9bd0d6ba8abcc8ecc2206_27922_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Ayoub Adib</title>
+      <link>https://delcampolab.github.io/authors/adib/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guifré Torruella | del Campo Lab</title>
+    <link>https://delcampolab.github.io/authors/guifre-torruella/</link>
+      <atom:link href="https://delcampolab.github.io/authors/guifre-torruella/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guifré Torruella</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://delcampolab.github.io/media/logo_hu35114a07a97a1328964a3f30afe3dbb0_47890_300x300_fit_lanczos_2.png</url>
+      <title>Guifré Torruella</title>
+      <link>https://delcampolab.github.io/authors/guifre-torruella/</link>
+    </image>
+    
+    <item>
+      <title>Phylogenomics Reveals Convergent Evolution of Lifestyles in Close Relatives of Animals and Fungi</title>
+      <link>https://delcampolab.github.io/publication/torruella-2015-phylogenomics/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://delcampolab.github.io/publication/torruella-2015-phylogenomics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

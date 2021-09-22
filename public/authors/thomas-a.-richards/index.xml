@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas A. Richards | del Campo Lab</title>
+    <link>https://delcampolab.github.io/authors/thomas-a.-richards/</link>
+      <atom:link href="https://delcampolab.github.io/authors/thomas-a.-richards/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas A. Richards</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://delcampolab.github.io/media/logo_hu35114a07a97a1328964a3f30afe3dbb0_47890_300x300_fit_lanczos_2.png</url>
+      <title>Thomas A. Richards</title>
+      <link>https://delcampolab.github.io/authors/thomas-a.-richards/</link>
+    </image>
+    
+    <item>
+      <title>Intracellular Infection of Diverse Diatoms by an Evolutionary Distinct Relative of the Fungi</title>
+      <link>https://delcampolab.github.io/publication/chambouvet-2019-intracellular/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://delcampolab.github.io/publication/chambouvet-2019-intracellular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphological Identification and Single-Cell Genomics of Marine Diplonemids</title>
+      <link>https://delcampolab.github.io/publication/gawryluk-2016-morphological/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://delcampolab.github.io/publication/gawryluk-2016-morphological/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversity and distribution of unicellular opisthokonts along the European coast analyzed using high-throughput sequencing</title>
+      <link>https://delcampolab.github.io/publication/delcampo-2015-diversity/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://delcampolab.github.io/publication/delcampo-2015-diversity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mitchell J. Syberg-Olsen | del Campo Lab</title>
+    <link>https://delcampolab.github.io/authors/mitchell-j.-syberg-olsen/</link>
+      <atom:link href="https://delcampolab.github.io/authors/mitchell-j.-syberg-olsen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mitchell J. Syberg-Olsen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://delcampolab.github.io/media/logo_hu35114a07a97a1328964a3f30afe3dbb0_47890_300x300_fit_lanczos_2.png</url>
+      <title>Mitchell J. Syberg-Olsen</title>
+      <link>https://delcampolab.github.io/authors/mitchell-j.-syberg-olsen/</link>
+    </image>
+    
+    <item>
+      <title>A letter to Denis Lynn</title>
+      <link>https://delcampolab.github.io/publication/keeling-2020-lynn/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://delcampolab.github.io/publication/keeling-2020-lynn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EukRef--Ciliophora: A manually curated, phylogeny-based database of small subunit rRNA gene sequences of ciliates</title>
+      <link>https://delcampolab.github.io/publication/boscaro-2018-eukref/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://delcampolab.github.io/publication/boscaro-2018-eukref/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

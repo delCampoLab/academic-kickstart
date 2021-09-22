@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Danielle Tenberg | del Campo Lab</title>
+    <link>https://delcampolab.github.io/authors/tenberg/</link>
+      <atom:link href="https://delcampolab.github.io/authors/tenberg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Danielle Tenberg</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://delcampolab.github.io/authors/tenberg/avatar_huc4ff3434778e2bea5619b182c712e238_161455_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Danielle Tenberg</title>
+      <link>https://delcampolab.github.io/authors/tenberg/</link>
+    </image>
+    
+  </channel>
+</rss>

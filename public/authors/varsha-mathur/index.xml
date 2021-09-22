@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Varsha Mathur | del Campo Lab</title>
+    <link>https://delcampolab.github.io/authors/varsha-mathur/</link>
+      <atom:link href="https://delcampolab.github.io/authors/varsha-mathur/index.xml" rel="self" type="application/rss+xml" />
+    <description>Varsha Mathur</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://delcampolab.github.io/media/logo_hu35114a07a97a1328964a3f30afe3dbb0_47890_300x300_fit_lanczos_2.png</url>
+      <title>Varsha Mathur</title>
+      <link>https://delcampolab.github.io/authors/varsha-mathur/</link>
+    </image>
+    
+    <item>
+      <title>A letter to Denis Lynn</title>
+      <link>https://delcampolab.github.io/publication/keeling-2020-lynn/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://delcampolab.github.io/publication/keeling-2020-lynn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A widespread coral-infecting apicomplexan with chlorophyll biosynthesis genes</title>
+      <link>https://delcampolab.github.io/publication/kwong-2019-widespread/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://delcampolab.github.io/publication/kwong-2019-widespread/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Diversity and Distribution of Close Relatives of Apicomplexan Parasites</title>
+      <link>https://delcampolab.github.io/publication/mathur-2018-global/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://delcampolab.github.io/publication/mathur-2018-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular characterization and phylogeny of four new species of the genus Trichonympha (Parabasalia, Trichonymphea) from lower termite hindguts</title>
+      <link>https://delcampolab.github.io/publication/boscaro-2017-molecular/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://delcampolab.github.io/publication/boscaro-2017-molecular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pseudotrichonympha leei, Pseudotrichonympha lifesoni, and Pseudotrichonympha pearti, new species of parabasalian flagellates and the description of a rotating subcellular structure</title>
+      <link>https://delcampolab.github.io/publication/delcampo-2017-pseudotrichonympha/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://delcampolab.github.io/publication/delcampo-2017-pseudotrichonympha/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
