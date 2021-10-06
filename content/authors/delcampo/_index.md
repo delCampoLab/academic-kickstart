@@ -33,7 +33,7 @@ education:
   - course: PhD in Environmental Microbiology and Biotechnology
     institution: Universitat de Barcelona and Institut de Ciències del Mar
     year: 2011
-  - course: DEA in Environmental Micorbiology and Biotechnology
+  - course: DEA in Environmental Microbiology and Biotechnology
     institution: Universitat de Barcelona
     year: 2005
   - course: BSc in Biology
