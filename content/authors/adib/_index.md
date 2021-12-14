@@ -87,7 +87,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Alumni
 ---
 
 I am a master’s student at the University of Mons (Belgium), I am pursuing a master’s degree in applied microbiology. I'm currently working on my thesis, it is a metagenomic survey in a ventilation system called : Earth-to-air heat exchanger(EAHX). The aim of this project is to evaluate the sanitary impact of this kind of system in a domestic use. To do so we are using metagenomic to evaluate the population of bacteria and fungi in the air at different locations of our installation. This project is a first step in the world of applied metagenomics and bioinformatics and I'm happy to continue that in Del Campo lab by working on Coral metagenomes. I have always had a strong interest in marine microbiology and bioinformatics. In spring 2020 I had an opportunity as an intern in Del Campo lab at RSMAS but we canceled due to CoVID pandemic. Luckily, this year I'm happy to collaborate again with Del Campo lab, this time in the old continent.
