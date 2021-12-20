@@ -21,11 +21,11 @@ organizations:
 bio: My research will focus on the development of the EukRef pipeline with a particular focus on developing phylogenetic tools.
 
 interests:
-- Genetics
-- Climate Change
-- Marine Biologyons
-- Conservation Biology
-- Ethology & Adaptation
+#- Genetics
+#- Climate Change
+#- Marine Biologyons
+#- Conservation Biology
+#- Ethology & Adaptation
 
 education:
   courses:
