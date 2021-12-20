@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research will focus on the development of the EukRef pipeline with a particular focus on developing phylogenetic tools.
 
-interests:
+# interests:
 #- Genetics
 #- Climate Change
 #- Marine Biologyons
