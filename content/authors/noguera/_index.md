@@ -58,7 +58,7 @@ social:
   link: https://github.com/martan29
 - icon: instagram
   icon_pack: fab
-  link: https://github.com/martan29
+  link: https://www.instagram.com/marta_noguera/
 #- icon: linkedin
 #  icon_pack: fab
 #  link: linkedin.com/in/teresa-porta-fitó-3bb0271b1
