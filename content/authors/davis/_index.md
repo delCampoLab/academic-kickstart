@@ -67,7 +67,7 @@ social:
 #  link: https://www.instagram.com/bbbunia/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/adrianna-davis-910850189 
+  link: https://www.linkedin.com/in/adrianna-davis-910850189
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -87,7 +87,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Alumni
 ---
 
 I am a junior at the University of Miami pursuing a dual degree in Marine Science and Biology with a minor in Photography. In the past, I have worked in conjunction with researchers from UNC Wilmington and UNC Chapel Hill to conduct an original experiment on stable isotopes. My  project, which estimated the trophic positions of juvenile and adult Atlantic sharpnose sharks, has received awards in the Connecticut STEM Fair and Junior Science and Humanities Symposium. My research was inspired by my Scuba diving experiences and observing sharks in their natural habitat. I am a certified SSI Stress and Rescue diver and an Emergency Oxygen and Basic Life Support provider. During the summer of 2019, I built long-term marine ecological data sets with a concentration on Chondrichthyes as a part of an internship with the South African Shark Conservancy. For the past year I have been interning in the del Campo Lab to develop barcode genes reference trees for the Symbiodiniaceae as a part of their coral microbiome research.
