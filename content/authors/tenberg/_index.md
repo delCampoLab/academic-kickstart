@@ -29,9 +29,9 @@ interests:
 
 education:
   courses:
-  - course: Junior
+  - course: Senior
     institution: University of Miami
-    year: 2020
+    year: 2022
 #  - course: DEA in Environmental Micorbiology and Biotechnology
 #    institution: Universitat de Barcelona
 #    year: 2005
