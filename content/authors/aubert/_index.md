@@ -21,10 +21,10 @@ organizations:
 bio: I am currently a 4th year student at EBI (Ecole de Biologie Industrielle), in France. I had the chance to join the del Campo Laboratory at the Institut de Biologia Evolutiva (CSIC-UPF)for an internship as a research assistant.
 
 interests:
--Coral Reef Ecology
--Climate change
--Ocean Preservation
--Scuba diving
+- Coral Reef Ecology
+- Climate change
+- Ocean Preservation
+- Scuba diving
 
 
 education:
