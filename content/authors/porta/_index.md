@@ -44,9 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:teresaportafito@gmail.com"
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/AMBonacolta
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/teresaporta3
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?hl=en&user=nVxjagoAAAAJ
@@ -56,9 +56,9 @@ social:
 #- icon: researchgate
 #  icon_pack: ai
 #  link: https://www.researchgate.net/profile/Anthony_Bonacolta
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/Abonacolta
+- icon: github
+  icon_pack: fab
+  link: https://github.com/TeresaPF
 #- icon: instagram
 #  icon_pack: fab
 #  link: https://www.instagram.com/bbbunia/
