@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc Student
+role: Lab Manager
 
 # Organizations/Affiliations
 organizations:
@@ -29,6 +29,9 @@ interests:
 
 education:
   courses:
+  - course: MSc in Genetics and Genomics
+    institution: Universitat de Barcelona
+    year: 2022
   - course: BSc in Genetics (graduated with honors)
     institution: Universitat Autònoma de Barcelona
     year: 2021
@@ -74,7 +77,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Laboratory Technicians
 ---
 
 I completed my degree in Genetics at the Autonomous University of Barcelona (UAB) and I am currently studying a Master in Genetics and Genomics of Development and Stem Cells at the University of Barcelona. My undergraduate experience has touched human as well as non-human genetics. Firstly, I did an internship in a clinical laboratory of molecular genetic diagnosis in the Taulí Hospital of Sabadell, where I got familiarized with genetic conditions of human neuropathies. Then, a short stay at CREAF of UAB carrying out an extracurricular internship in molecular ecology, participating in the research of adaptive markers in the response of the bird Corvus monedula to anthropogenic modifications. I also had the opportunity to study the aggressive male behavior of Betta splendens fish during my Erasmus stay at the University of Maribor, Slovenia. My final degree project received honors and has consisted of the development of a board game of human genetic variability and adaptation called “Genogràfic” that has promising applications in the teaching world of scientific dissemination. The board game has already been created in its physical and virtual version. I invite you to take a look on it: https://genografic.omicsuab.org/. I am currently doing my master’s thesis studying the microbial ecology of the coral holobiont under heat stress using the single-cell methodology.
