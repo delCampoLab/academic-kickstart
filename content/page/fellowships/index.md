@@ -60,7 +60,7 @@ header:
 
 ### --- By Country ---
 
-#### Japan  - :japan: [Canon Foundation Research Fellowships](https://www.canonfoundation.org/programmes/research-fellowships/)
+#### Japan  - :jp: [Canon Foundation Research Fellowships](https://www.canonfoundation.org/programmes/research-fellowships/)
   * _Description_: Annually, the Canon Foundation in Europe grants up to 15 Fellowships to highly qualified European and Japanese researchers. European Fellows are expected to pursue a period of research in Japan whereas Japanese Fellows are expected to do their research in Europe. Japanese Canon Fellows are free to choose their host institutes and hosts in Europe. Canon Foundation Research Fellowships may be applied for when an agreement on co-operation and on a research plan has been reached between the guest researcher and the proposed host institution
   * _Duration_: 3 months to 1 year.
   * _Eligibility_: Only Japanese researchers are eligible to do their research in Europe. Applicants should have obtained at least a Master's or PhD degree within the last ten years of applying to the Canon Foundation. We will also consider candidates who obtained their qualification more than ten years ago as long as they provide further supporting information in their application.
