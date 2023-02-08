@@ -14,7 +14,17 @@ header:
   image: ""
 ---
 
-### Postdoc Fellowships
+### Doctoral Fellowships
+
+#### Joan Oró Programme
+
+#### FPU
+
+#### Ramon Areces
+
+#### La Caixa InPhinit
+
+### Postdoctoral Fellowships
 
 #### [Beatriu de Pinòs Programme](https://agaur.gencat.cat/en/Beatriu-de-Pinos/index.html)
 * _Description_: The Beatriu de Pinós programme (posdocBP) focuses on the attraction of post-doctoral research talent. The programme, funded by the General Directorate for Research in the Government of Catalonia, was launched in 2005. The goal of the calls in the Beatriu de Pinós programme is to provide individual funding support for the recruitment and incorporation of post-doctoral researchers in the Catalan system of science and technology. Researchers are allowed to freely choose their own research project in any field.
