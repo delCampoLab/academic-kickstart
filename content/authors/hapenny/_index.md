@@ -86,7 +86,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Alumni
 ---
 
 I am a junior at the University of Miami pursuing a dual degree in Marine Sciences and Biology. In the past, I have worked in aquariums studying animal behavior and monitoring animal habitats. I have learned how animals rescued from the wild are rehabilitated and cared for if they are not released. Currently, I am working to learn as much as I can about potential career paths and am hoping to work closely with corals as I progress.

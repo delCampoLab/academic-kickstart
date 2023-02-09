@@ -87,7 +87,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Alumni
 ---
 
 I am currently a Junior at the University of Miami double majoring in Marine Science and Biology. I transferred here from the University of North Carolina at Charlotte where I studied Biology. I have had the opportunity in the past to work with children educating them on ocean conservation and preservation, especially down here in South Florida. This hands-on experience gave me the opportunity to share my passions about conservation and do my part to help to spread knowledge. I am also an avid scuba diver and will take any chance I can get to get into the water!

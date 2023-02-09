@@ -73,7 +73,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Undergraduate Students
 ---
 
 I am an undergraduate student in the Department of Biology in Aristotle University of Thessaloniki, Greece. During my bachelor’s degree I chose subjects related to Marine Biology, Genetics and Bioinformatics. My ongoing interest in this field, led me to choose the subject of my diploma thesis: “ How different species pools alter the functional and phylogenetic diversity patterns”, using statistical models created in R programming language. Currently I am in the del Campo Microbial Ecology and Evolution Lab as an Erasmus intern student. My research will focus on Single-cell microbial ecology of the coral holobiont under heat stress.
