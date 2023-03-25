@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Danielle Tenberg
+title: Andrea Illa
 
 # Username (this should match the folder name)
 authors:
-- tenberg
+- illa
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,23 +14,22 @@ role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Rosentiel School of Marine and Atmospheric Science - University of Miami
-  url: "https://www.rsmas.miami.edu/"
+- name: Universitat de Barcelona
+  url: "https://www.ub.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a Junior at the University of Miami double majoring in Marine Science and Biology. I transferred here from the University of North Carolina at Charlotte where I studied Biology.
+bio: I am working on the isolation and culture bacterial communities associated with Mediterranean coral species.
 
 interests:
--   Marine Mammal Behavior
--   Scuba Diving
--   Shark Research and Conservation
--   Coral Reef Ecology
--   Deep-Sea Microbial Life
+- Coral Microbiology
+- Microbiology of Deep-sea hydrothermal vents
+- Marine Mammal Ecology and Conservation
+- Scuba Diving
 
 education:
   courses:
   - course: Senior
-    institution: University of Miami
+    institution: Universitat de Barcelona
     year: 2022
 #  - course: DEA in Environmental Micorbiology and Biotechnology
 #    institution: Universitat de Barcelona
@@ -46,10 +45,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:djt78@miami.edu"  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/AMBonacolta
+  link: "mailto: andreaillaoviedo@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/dreailla
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?hl=en&user=nVxjagoAAAAJ
@@ -59,22 +58,15 @@ social:
 #- icon: researchgate
 #  icon_pack: ai
 #  link: https://www.researchgate.net/profile/Anthony_Bonacolta
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/Abonacolta
+- icon: github
+  icon_pack: fab
+  link: https://github.com/andreailla
 #- icon: instagram
 #  icon_pack: fab
 #  link: https://www.instagram.com/sheahellquarter/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/danielle-tenberg-197833186/
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-
+  link: https://www.linkedin.com/in/andrea-illa-45bba8222
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -87,7 +79,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Undergraduate Students
 ---
 
-I am currently a Junior at the University of Miami double majoring in Marine Science and Biology. I transferred here from the University of North Carolina at Charlotte where I studied Biology. I have had the opportunity in the past to work with children educating them on ocean conservation and preservation, especially down here in South Florida. This hands-on experience gave me the opportunity to share my passions about conservation and do my part to help to spread knowledge. I am also an avid scuba diver and will take any chance I can get to get into the water!
+I'm currently an undergrad student at the University of Barcelona, pursuing a major in Marine Science. I have always loved marine wildlife and everything related to the ocean's water column. And this is why I recently became an SSI-certified diver and dive whenever the opportunity comes. This year I'm doing my degree's final project on bacterial communities associated with Mediterranean coral species at the del Campo Lab. I'm looking forward to developing my lab skills and achieving successful results so I get to know a little bit more about coral's microbial life. Apart from scuba diving, I also enjoy reading science fiction books and playing the electric guitar in my free time.

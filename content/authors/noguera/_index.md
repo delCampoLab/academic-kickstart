@@ -74,7 +74,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Alumni
 ---
 
 I graduated from the Autonomous University of Barcelona (UAB) with a degree in Applied Statistics. During my undergraduate studies, I worked at BarcelonaBeta Brain Research Center (BBRC). BBRC is the Research Institute through which the Pasqual Maragall Foundation develops its scientific activity. During the stay I was involved in the project "Exploration of the genetic bases associated with the enlargement of the perivascular brain spaces (EPVS)" since EPVS are objects of interest in research due to their correlation with the incidence of several neurodegenerative diseases. I began the master’s degree in Omics Data Analysis at the University of Vic to acquire knowledge of omic data analysis techniques through statistical and bioinformatic tools.

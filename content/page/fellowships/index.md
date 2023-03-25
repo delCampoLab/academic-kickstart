@@ -14,7 +14,17 @@ header:
   image: ""
 ---
 
-### Postdoc Fellowships
+### Doctoral Fellowships
+
+#### Joan Oró Programme
+
+#### FPU
+
+#### Ramon Areces
+
+#### La Caixa InPhinit
+
+### Postdoctoral Fellowships
 
 #### [Beatriu de Pinòs Programme](https://agaur.gencat.cat/en/Beatriu-de-Pinos/index.html)
 * _Description_: The Beatriu de Pinós programme (posdocBP) focuses on the attraction of post-doctoral research talent. The programme, funded by the General Directorate for Research in the Government of Catalonia, was launched in 2005. The goal of the calls in the Beatriu de Pinós programme is to provide individual funding support for the recruitment and incorporation of post-doctoral researchers in the Catalan system of science and technology. Researchers are allowed to freely choose their own research project in any field.
@@ -60,8 +70,14 @@ header:
 
 ### --- By Country ---
 
-#### [Canon Foundation Research Fellowships](https://www.canonfoundation.org/programmes/research-fellowships/)
+#### Japan  - :jp: [Canon Foundation Research Fellowships](https://www.canonfoundation.org/programmes/research-fellowships/)
   * _Description_: Annually, the Canon Foundation in Europe grants up to 15 Fellowships to highly qualified European and Japanese researchers. European Fellows are expected to pursue a period of research in Japan whereas Japanese Fellows are expected to do their research in Europe. Japanese Canon Fellows are free to choose their host institutes and hosts in Europe. Canon Foundation Research Fellowships may be applied for when an agreement on co-operation and on a research plan has been reached between the guest researcher and the proposed host institution
   * _Duration_: 3 months to 1 year.
   * _Eligibility_: Only Japanese researchers are eligible to do their research in Europe. Applicants should have obtained at least a Master's or PhD degree within the last ten years of applying to the Canon Foundation. We will also consider candidates who obtained their qualification more than ten years ago as long as they provide further supporting information in their application.
   * _Deadline_: September.
+
+#### Sweden - :sweden: [Swedish Research Council International postdoc within natural and engineering sciences](https://www.vr.se/english.html)
+  * _Description_: The purpose of the grant is to give newly qualified researchers with a doctoral degree from a Swedish university the opportunity to expand their networks and their competences by working abroad under secure employment conditions. The grant is also intended to promote the quality and renewal of Swedish research.
+  * _Duration_: 18 months to three years.
+  * _Eligibility_: Individual researcher who completed a doctoral degree no more than 2 years ago, or who will have completed a doctoral degree before the start of the grant period.
+  * _Deadline_: February (spring call) or September (fall call).

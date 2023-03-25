@@ -87,7 +87,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Alumni
 ---
 
 I am currently on the last course of the Marine Science degree at the Universitat de Barcelona. I have taken part of the Surfing for Science project collecting samples of microplastics, at Comarruga harbor, to analyse their origin. Participating in this project had helped me to acquire knowledge about conservation and anthropogenic impact which I try transfer to children during surf camps, especially at Gran Canaria and Comarruga. Now, I am conducting my final degree project about the effects of natural ocean acidification on bryozoan’s microbiome at the Institut de Ciències del Mar and the Institut de Biologia Evolutiva (CSIC-UPF).

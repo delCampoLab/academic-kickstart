@@ -74,7 +74,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Alumni
 ---
 
 I graduated in Biochemistry from the University of Murcia in 2017. I did my TFG at the Regional Center for Hemodonation, in Region of Murcia, about the effect of a coagulation factor deficiency on the population. After a few years preparing the exam for FSE in Spain, I decided to do a Master’s degree at the Autonomous University of Barcelona on Advanced Genetics. Currently, I am doing my master’s thesis project at the del Campo Lab studying the microbiome of the Gulf Toadfish and its relation to calcium carbonate precipitation in the fish gut. Apart from everything related to science, I am also passionate about sports.

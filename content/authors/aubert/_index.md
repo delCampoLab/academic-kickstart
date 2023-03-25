@@ -87,7 +87,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Alumni
 ---
 
 I am currently a 4th year student at EBI (Ecole de Biologie Industrielle), in France. I had the chance to join the del Campo Laboratory for an internship as a research assistant to help Teresa Porta and Anthony Bonacolta in their projects. I have been passionate about animals since I was a child and I am very interested in the marine environment. I obtained my level 1 diving certificate a few months ago. I am very happy to be able to put my passion for animals, my interest in marine environments and my skills at the service of the laboratory.
