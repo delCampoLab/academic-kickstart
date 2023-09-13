@@ -79,7 +79,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Alumni
 ---
 
 I'm currently an undergrad student at the University of Barcelona, pursuing a major in Marine Science. I have always loved marine wildlife and everything related to the ocean's water column. And this is why I recently became an SSI-certified diver and dive whenever the opportunity comes. This year I'm doing my degree's final project on bacterial communities associated with Mediterranean coral species at the del Campo Lab. I'm looking forward to developing my lab skills and achieving successful results so I get to know a little bit more about coral's microbial life. Apart from scuba diving, I also enjoy reading science fiction books and playing the electric guitar in my free time.
