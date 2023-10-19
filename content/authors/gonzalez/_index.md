@@ -73,7 +73,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Alumni
 ---
 
 I completed my undergraduate studies in Biotechnology at the University of Extremadura (UEx) in 2022. With this background, I entered a Master of Science (MSc) degree in Omics Data Analysis at the Universitat of Vic (UVic) at the end of 2022. This program focused on the analysis of large-scale biological datasets, encompassing genomics, transcriptomics, epigenomics, proteomics or metabolomics. During my time at UVic, I acquired advanced skills in utilizing bioinformatics tools and statistical methods techniques to extract meaningful insights from complex omics data. Now, as I approach the final stretch of my master's degree, I am excited to undertake a research project centered on the genome reconstruction of the protist *Minorisa minuta* using Single Amplified Genomes (SAGs).

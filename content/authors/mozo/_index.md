@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto: andreaillaoviedo@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:rociomozo@outlook.es"  # For a direct email link, use "mailto:test@example.org".
 # icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/dreailla
@@ -62,13 +62,13 @@ social:
 #  link: https://www.researchgate.net/profile/Anthony_Bonacolta
 - icon: github
   icon_pack: fab
-  link: https://github.com/andreailla
+  link: https://github.com/rociomozo
 #- icon: instagram
 #  icon_pack: fab
 #  link: https://www.instagram.com/sheahellquarter/
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/andrea-illa-45bba8222
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/andrea-illa-45bba8222
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -81,7 +81,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Alumni
 ---
 
 I am currently an undergrad student pursuing a degree in Biology in the Autonomous University of Madrid (UAM). I have always been passionate about ocean wildlife, what lead me to start diving at a young age. Since then, my love towards marine ecosystems has only grown over the years. During my degree, I have developed a great interest in many different subjects such as Ecology, Genetics, Conservation, Microbiology, Physiology… I am also strongly driven by science divulgation – I believe it is key to bring science closer to the general public to raise awareness about current environmental issues. Therefore, I have been participating in several environmental education and outreach activities as part of Iberozoa Association team during the last years. My goal for my senior year was to improve my understanding of the research world and my lab skills, what encouraged me to apply for CSIC’s JAE Intro 2022 scholarship. This resulted in me moving to Barcelona to join the del Campo lab, as having the opportunity to learn more about marine ecology and host-microbe interactions is so exciting for me. During my internship at IBE I will be studying the microbiome of the Mediterranean coral Eunicella singularis as part of my final year project.
