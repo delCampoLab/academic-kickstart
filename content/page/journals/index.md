@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 
-#### MICROBIAL ECOLOGY
+#### Microbial Ecology
 
 *   Applied and Environmental Microbiology
 *   Aquatic Microbial Ecology
@@ -24,18 +24,18 @@ header:
 *   Microbes and Environments
 *   Microbial Ecology
 *   The ISME Journal
+*   ISME Communications
 
-#### PROTISTOLOGY
+#### Protistology
 
-*   [Acta Protozoologica](link)
-*   [Eukaryotic Cell]
+*   Acta Protozoologica
 *   European Journal of Protistology
 *   Protist
 *   Protist Genomics
 *   Protistology
 *   The Journal of Eukaryotic Microbiology
 
-#### DIVERSITY AND EVOLUTION
+#### Diversity and Evolution
 
 *   Genome Biology and Evolution
 *   International Journal of Systematic and Evolutionary Microbiology
@@ -44,8 +44,20 @@ header:
 *   Molecular Phylogenetics and Evolution
 *   Systematic Biology
 *   Trends in Ecology and Evolution
+*   Coral Reefs
+*   Symbiosis
+*   Nature Ecology and Evolution
 
-#### GENERAL BIOLOGY
+#### Microbiology
+
+* Nature Microbiology
+* mBio
+* mSystems
+* Microbiome
+* Animal Microbiome
+
+
+#### General Biology
 
 *   Biology Letters
 *   Current Biology
@@ -57,13 +69,13 @@ header:
 *   Science
 *   eLife
 
-#### BIOINFORMATICS
+#### Bioinformatics
 
 *   Bioinformatics
 *   Database
 *   Nucleic Acids Research
 
-#### OA MEGAJOURNALS
+#### OA Megajournals
 
 *   PLoS ONE
 *   PeerJ
