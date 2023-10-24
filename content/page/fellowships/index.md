@@ -35,7 +35,6 @@ The lab accepts internship enquiries from students to develop their master's the
 * [Master in Oceanography and Marine Environmental Management](https://web.ub.edu/en/web/estudis/w/masterdegree-M0605)
 * [Master in Biodiversity](https://web.ub.edu/en/web/estudis/w/masterdegree-M0G08)
 * [Master in Advanced Microbiology](https://web.ub.edu/en/web/estudis/w/masterdegree-M0Q05)
-https://www.uoc.edu/ca/estudis/masters/master-universitari-bioinformatica-bioestadistica
 
 #### [Universitat de Vic](https://www.uvic.cat/en)
 * [Master's degree in Omics Data Analysis](https://www.uvic.cat/en/master-degree/omics-data-analysis)
@@ -97,11 +96,11 @@ https://www.uoc.edu/ca/estudis/masters/master-universitari-bioinformatica-bioest
 * _Eligibiligy_: Candidates must have before joining the host institution at least 2 years of postdoctoral experience outside Spain. Candidates must have lived or worked outside Spain at least 2 years during the 3 years previous to the corresponding call deadline.
 * _Deadline_: Mid March.
 
-#### [Juan de la Cierva – Training 2021](https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-marine-microbial-ecology/)
-* _Description_: The Juan de la Cierva Training Fellowships aim to encourage the recruiting of young doctors for a period of two years in order to complete their postdoctoral research training in Spanish R&D centres other than those in which they completed their pre-doctoral education.
+#### [Juan de la Cierva](https://www.aei.gob.es/en/announcements/announcements-finder/ayudas-contratos-juan-cierva-2022)
+* _Description_: The Juan de la Cierva Fellowships aim to encourage the recruiting of young doctors for a period of two years in order to complete their postdoctoral research training in Spanish R&D centres other than those in which they completed their pre-doctoral education.
 * _Duration_: 2 years.
 * _Eligibiligy_: Candidates must meet the requirements of being doctors and having obtained a doctorate between January 1, 2019 and December 31, 2020 unless they prove a cause of interruption in accordance with the call.
-* _Deadline_: Mid January 2021.
+* _Deadline_: Mid January.
 
 #### [Marie Skłodowska-Curie Individual Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en)
   * _Description_: Individual Fellowships (IF) are a great option if you are an experienced researcher looking to give your career a boost by working abroad. They offer exciting new learning opportunities and a chance to add some sparkle to your CV.
@@ -132,11 +131,6 @@ https://www.uoc.edu/ca/estudis/masters/master-universitari-bioinformatica-bioest
 * _Duration_: 3 years.
 * _Eligibility_: PhD between two and seven years prior to the closing date of the call. Candidates must have carried out research stays at a centre or university outside Spain (or outside Portugal for those joining a Portuguese centre), during their doctoral or postdoctoral studies, for a total of at least 6 months before the closing date of the call. Candidates must have resided or carried out their main activity (work, studies, etc.) in Spain for more than 12 months in the three years immediately preceding the closing date of the call.
 * _Deadline_: Fall.
-
-ComFuturo: 3 years of salary as part of a public-private collaboration
-This 60-month programme offers 15 ComFuturo 36-month fellowships to Experienced Researchers of any nationality who have obtained their PhD in the last 10 years and who have not resided or carried out their main activity (work or studies) in Spain for more that 12 months in the last 3 years  The ComFuturo fellows will be selected through a single call and an objective and transparent process which will include an external evaluation. The Spanish National Research Council will recruit, hire and host them.
-ComFuturo research areas will include those aligned with the United Nations Sustainable Development Goals that contribute, from any scientific-technical discipline, to fulfilling the 2030 Agenda; and topics proposed by the Partner Organisations, in consensus with FGCSIC, that help respond to strategic challenges of the productive sector.
-
 
 ### --- By Country ---
 
