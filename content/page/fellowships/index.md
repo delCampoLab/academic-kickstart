@@ -14,34 +14,93 @@ header:
   image: ""
 ---
 
+### Undergraduate Internships
+
+#### [JAE Intro](https://jaeintro.csic.es/en/):
+* _Description_: The JAE Intro programme offers grants at CSIC centres (CSIC-owned, mixed or partner units) aimed at university students interested in starting a research career. This scholarship programme provides an approach to a research career to those students who want to take their first steps in research. JAE Intro grants present the opportunity of enjoying the possibilities offered by CSIC Centres and Institutes in their different scientific areas and, at the same time, they provide an introduction to cutting-edge knowledge of scientific topics and scientific praxis.
+* _Duration_: Up to 7 months.
+* _Eligibiligy_: Bachelor and master students at Spanish universities..
+* _Deadline_: Spring.
+
+####  TFG (undergraduate research project)
+
+The lab accepts internship enquiries from students to develop their undergraduate research with us.
+
+### Master's Internships
+
+The lab accepts internship enquiries from students to develop their master's thesis with us. Find below some of the programmes that fit our research interests.
+
+#### [Universitat de Barcelona](https://web.ub.edu/en/)
+* [Master in Genetics and Genomics](https://web.ub.edu/en/web/estudis/w/masterdegree-M0Q04)
+* [Master in Oceanography and Marine Environmental Management](https://web.ub.edu/en/web/estudis/w/masterdegree-M0605)
+* [Master in Biodiversity](https://web.ub.edu/en/web/estudis/w/masterdegree-M0G08)
+* [Master in Advanced Microbiology](https://web.ub.edu/en/web/estudis/w/masterdegree-M0Q05)
+https://www.uoc.edu/ca/estudis/masters/master-universitari-bioinformatica-bioestadistica
+
+#### [Universitat de Vic](https://www.uvic.cat/en)
+* [Master's degree in Omics Data Analysis](https://www.uvic.cat/en/master-degree/omics-data-analysis)
+
+#### [Universitat Autònoma de Barcelona](https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html)
+* [Master's Degree in Bioinformatics](https://www.uab.cat/web/estudiar/official-master-s-degrees/general-information-1096480962610.html?param1=1327908905033)
+* [master's Degree in Applied Microbiology](https://www.uab.cat/web/estudiar/official-master-s-degrees/general-information-1096480962610.html?param1=1096480146625)
+
+#### [Universitat Oberta de Catalunya](https://www.uoc.edu/en/studies)
+* [Master in Bioinformatics and Biostatistics](https://www.uoc.edu/ca/estudis/masters/master-universitari-bioinformatica-bioestadistica)
+
+#### [Universitat Pompeu Fabra](https://www.upf.edu/)
+* [Master in Bioinformatics for Health Sciences](https://www.upf.edu/web/bioinformatics)
+
+### Visiting Students and Scientists
+
+#### [Erasmus+](https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/studying-abroad)
+* _Description_: Available to Bachelor, Master and Doctoral students.
+* _Duration_: Minimum of 2 months and maximum of 12 months.
+* _Deadline_: None
+
+#### [EMBO Scientific Exchange Grants](https://www.embo.org/funding/fellowships-grants-and-career-support/scientific-exchange-grants/)
+* _Description_: EMBO Scientific Exchange Grants are awarded for research exchanges between laboratories in EMBC Member States, Associated Member States or Cooperation Partners. The grants are not awarded for exchanges between two laboratories within the same country.
+* _Duration_: One week (seven days) up to three months (90 days).
+* _Eligibiligy_: Applicants must be active researchers at any stage in their career with a minimum of one year of research experience at the PhD student level, or equivalent at the time of application.
+* _Deadline_: None
+
 ### Doctoral Fellowships
 
-#### Joan Oró Programme
+#### [Joan Oró Grant](https://agaur.gencat.cat/en/beques-i-ajuts/convocatories-per-temes/Ajuts-Joan-Oro-per-a-la-contractacio-de-personal-investigador-predoctoral-en-formacio-FI-2024)
+* _Description_: Grant for public and private universities of the Catalan university system, research centres, hospital foundations and Unique Scientific and Technical Infrastructures (ICTS) to hire research staff in training.
+* _Duration_: 3 Years.
+* _Eligibiligy_: [Joan Oró Grant Eligibility](https://agaur.gencat.cat/en/beques-i-ajuts/convocatories-per-temes/Ajuts-Joan-Oro-per-a-la-contractacio-de-personal-investigador-predoctoral-en-formacio-FI-2024#requisits).
+* _Deadline_: Fall.
 
-#### FPU
+#### [FPU](https://www.universidades.gob.es/informacion-comun-fpu/)
+* _Description_: Granting of Aid for predoctoral contracts for the completion of doctoral theses, in Spanish Universities.
+* _Duration_: 4 Years.
+* _Eligibiligy_: [Joan Oró Grant Eligibility](Explanatory videos about FPU aid and the requirements to request it).
+* _Deadline_: Spring.
 
-#### Ramon Areces
+#### [Ramon Areces Grant](https://www.fundacionareces.es/fundacionareces/es/becas-y-ayudas/convocatorias/ayudas-fundacion-ramon-areces-para-la-realizacion-de-tesis-doctorales-en-ciencias-de-la-vida-y-de-la-materia.html?tipo=2&idAmbito=1)
+* _Description_: The Ramón Areces Foundation has as its fundamental objective the promotion of scientific and technical research of excellence in Spain through research grants, the training of young researchers, as well as the dissemination, promotion and the development of education and scientific culture in general. In compliance with these objectives, the Board of Trustees of the Foundation wishes to collaborate in the training of people who wish to begin scientific research, financing contracts for the completion of doctoral theses in doctoral programs at universities and other Spanish research centers.
+* _Duration_: 3 Years.
+* _Eligibiligy_: [Ramon Areces Grant Eligibility (in Spanish)](https://www.fundacionareces.es/fundacionareces/en/scholarships-and-grants/call-of-grants/ayudas-fundacion-ramon-areces-para-la-realizacion-de-tesis-doctorales-en-ciencias-de-la-vida-y-de-la-materia-ve.html?tipo=2&idAmbito=1#:~:text=I.%20Requisitos-,de,-los%20candidatos)
+* _Deadline_: Fall.
 
-#### La Caixa InPhinit
+#### [La Caixa InPhinit Retaining Call](https://lacaixafoundation.org/en/doctoral-inphinit-fellowships-retaining-call)
+* _Description_: ”la Caixa” Foundation grants 30 fellowships for researchers of any nationality who wish to pursue a doctorate in any discipline at any university or research centre in Spain or Portugal.
+* _Duration_: 3 Years.
+* _Eligibiligy_: Candidates must be in the first four years of their research career and have not previously been awarded a PhD or be in a position to apply for one. At the time of recruitment, candidates must have completed studies that allow them to enrol in an official doctoral programme in Spain/Portugal. Candidates must have resided or carried out their main activity (work, studies, etc.) in Spain/Portugal for more than twelve months in the three years immediately preceding the closing date of the call.
+* _Deadline_: Spring.
 
 ### Postdoctoral Fellowships
 
 #### [Beatriu de Pinòs Programme](https://agaur.gencat.cat/en/Beatriu-de-Pinos/index.html)
 * _Description_: The Beatriu de Pinós programme (posdocBP) focuses on the attraction of post-doctoral research talent. The programme, funded by the General Directorate for Research in the Government of Catalonia, was launched in 2005. The goal of the calls in the Beatriu de Pinós programme is to provide individual funding support for the recruitment and incorporation of post-doctoral researchers in the Catalan system of science and technology. Researchers are allowed to freely choose their own research project in any field.
 * _Duration_: 3 Years.
-* _Eligibiligy_: Candidates must have before joining the host institution at least 2 years of postdoctoral experience outside Spain. Candidates must have lived or worked outsie Spain at least 2 years during the 3 years previous to the corresponding call deadline.
+* _Eligibiligy_: Candidates must have before joining the host institution at least 2 years of postdoctoral experience outside Spain. Candidates must have lived or worked outside Spain at least 2 years during the 3 years previous to the corresponding call deadline.
 * _Deadline_: Mid March.
 
 #### [Juan de la Cierva – Training 2021](https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-marine-microbial-ecology/)
 * _Description_: The Juan de la Cierva Training Fellowships aim to encourage the recruiting of young doctors for a period of two years in order to complete their postdoctoral research training in Spanish R&D centres other than those in which they completed their pre-doctoral education.
 * _Duration_: 2 years.
 * _Eligibiligy_: Candidates must meet the requirements of being doctors and having obtained a doctorate between January 1, 2019 and December 31, 2020 unless they prove a cause of interruption in accordance with the call.
-* _Deadline_: Mid January 2021.
-
-#### [Juan de la Cierva - Incorporation 2021](https://www.ciencia.gob.es/portal/site/MICINN/menuitem.dbc68b34d11ccbd5d52ffeb801432ea0/?vgnextoid=056fe027b89f5710VgnVCM1000001d04140aRCRD&lang_choosen=en)
-* _Description_: The Juan de la Cierva – Incorporation Fellowships aim to encourage the recruitment of young doctors for a period of three years in order to strengthen the skills acquired during a first stage of postdoctoral training by Spanish research organizations or R&D centres.
-* _Duration_: 3 years.
-* _Eligibiligy_: Candidates must meet the requirements of being doctors and having obtained a doctorate between January 1, 2016 and December 31, 2018, unless they accredit an interruption cause according to the call.
 * _Deadline_: Mid January 2021.
 
 #### [Marie Skłodowska-Curie Individual Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en)
@@ -67,6 +126,17 @@ header:
   * _Duration_: 3 years.
   * _Eligibility_: [HFSP PDF Eligibility](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships#eligibility).
   * _Deadline_: Second half of August.
+
+#### [la Caixa Junior Leader Retaining](https://lacaixafoundation.org/en/postdoctoral-junior-leader-fellowships-retaining-call)
+* _Description_: ”la Caixa” Foundation grants 15 postdoctoral fellowships for researchers of any nationality to carry out a research project in a STEM discipline at any university or research centre in Spain or Portugal.
+* _Duration_: 3 years.
+* _Eligibility_: PhD between two and seven years prior to the closing date of the call. Candidates must have carried out research stays at a centre or university outside Spain (or outside Portugal for those joining a Portuguese centre), during their doctoral or postdoctoral studies, for a total of at least 6 months before the closing date of the call. Candidates must have resided or carried out their main activity (work, studies, etc.) in Spain for more than 12 months in the three years immediately preceding the closing date of the call.
+* _Deadline_: Fall.
+
+ComFuturo: 3 years of salary as part of a public-private collaboration
+This 60-month programme offers 15 ComFuturo 36-month fellowships to Experienced Researchers of any nationality who have obtained their PhD in the last 10 years and who have not resided or carried out their main activity (work or studies) in Spain for more that 12 months in the last 3 years  The ComFuturo fellows will be selected through a single call and an objective and transparent process which will include an external evaluation. The Spanish National Research Council will recruit, hire and host them.
+ComFuturo research areas will include those aligned with the United Nations Sustainable Development Goals that contribute, from any scientific-technical discipline, to fulfilling the 2030 Agenda; and topics proposed by the Partner Organisations, in consensus with FGCSIC, that help respond to strategic challenges of the productive sector.
+
 
 ### --- By Country ---
 
