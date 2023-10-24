@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 
-### Undergraduate Internships
+### Undergraduate Fellowships
 
 #### [JAE Intro](https://jaeintro.csic.es/en/):
 * _Description_: The JAE Intro programme offers grants at CSIC centres (CSIC-owned, mixed or partner units) aimed at university students interested in starting a research career. This scholarship programme provides an approach to a research career to those students who want to take their first steps in research. JAE Intro grants present the opportunity of enjoying the possibilities offered by CSIC Centres and Institutes in their different scientific areas and, at the same time, they provide an introduction to cutting-edge knowledge of scientific topics and scientific praxis.
@@ -22,34 +22,7 @@ header:
 * _Eligibiligy_: Bachelor and master students at Spanish universities..
 * _Deadline_: Spring.
 
-####  TFG (undergraduate research project)
-
-The lab accepts internship enquiries from students to develop their undergraduate research with us.
-
-### Master's Internships
-
-The lab accepts internship enquiries from students to develop their master's thesis with us. Find below some of the programmes that fit our research interests.
-
-#### [Universitat de Barcelona](https://web.ub.edu/en/)
-* [Master in Genetics and Genomics](https://web.ub.edu/en/web/estudis/w/masterdegree-M0Q04)
-* [Master in Oceanography and Marine Environmental Management](https://web.ub.edu/en/web/estudis/w/masterdegree-M0605)
-* [Master in Biodiversity](https://web.ub.edu/en/web/estudis/w/masterdegree-M0G08)
-* [Master in Advanced Microbiology](https://web.ub.edu/en/web/estudis/w/masterdegree-M0Q05)
-
-#### [Universitat de Vic](https://www.uvic.cat/en)
-* [Master's degree in Omics Data Analysis](https://www.uvic.cat/en/master-degree/omics-data-analysis)
-
-#### [Universitat Autònoma de Barcelona](https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html)
-* [Master's Degree in Bioinformatics](https://www.uab.cat/web/estudiar/official-master-s-degrees/general-information-1096480962610.html?param1=1327908905033)
-* [master's Degree in Applied Microbiology](https://www.uab.cat/web/estudiar/official-master-s-degrees/general-information-1096480962610.html?param1=1096480146625)
-
-#### [Universitat Oberta de Catalunya](https://www.uoc.edu/en/studies)
-* [Master in Bioinformatics and Biostatistics](https://www.uoc.edu/ca/estudis/masters/master-universitari-bioinformatica-bioestadistica)
-
-#### [Universitat Pompeu Fabra](https://www.upf.edu/)
-* [Master in Bioinformatics for Health Sciences](https://www.upf.edu/web/bioinformatics)
-
-### Visiting Students and Scientists
+### Visiting Students and Scientists Grants
 
 #### [Erasmus+](https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/studying-abroad)
 * _Description_: Available to Bachelor, Master and Doctoral students.
