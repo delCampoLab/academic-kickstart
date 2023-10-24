@@ -23,8 +23,22 @@ main:
     url: 'publication/'
     weight: 40
   - name: Resources
-    url: 'page/resources'
+    url: resources
     weight: 50
+  - name: Friends
+    url: 'page/friends/'
+    weight: 1
+  - name: Meetings
+    url: 'page/meetings/'
+    weight: 2
+  - name: Societies
+    url: 'page/societies/'
+    weight: 1
+  - name: Journals
+    url: 'page/journals/'
+  - name: Tools
+    url: 'page/tools/'
+    weight: 2
   - name: Join the Lab
     identifier: join
     weight: 60

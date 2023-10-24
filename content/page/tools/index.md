@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Tools
 summary: ""
 date: "last_updated"
 
@@ -14,19 +14,18 @@ header:
   image: ""
 ---
 
-### Scientific Societies
+### Computational Tools
 
-* [American Academy of Underwater Sciences](https://aaus.org/)
-* [American Society for Microbiology](https://www.asm.org/)
-  *  [American Society for Microbiology Florida Branch](https://www.flasm.org/)
-* [American Society of Parasitologists](http://amsocparasit.org/)
-* [Asociación Latinoamericana de Microbiología](https://alam.science/)
-* [Association for the Sciences of Limnology and Oceanography](https://www.aslo.org/)
-* [Iberian Society of Ecology](http://www.sibecol.org/en/)
-* [International Society for Microbial Ecology](https://www.isme-microbes.org/)
-* [International Coral Reef Society](http://coralreefs.org/)
-* [International Society of Protistologists](https://protistologists.org/)
-* [Society for Molecular Biology and Evolution](https://www.smbe.org/smbe/)
+*   [Gblocks](http://molevol.cmima.csic.es/castresana/Gblocks.html)
+*   [QIIME](http://qiime.org/)
+*   [MAFFT](http://mafft.cbrc.jp/alignment/software/)
+*   [mothur](http://www.mothur.org/)
+*   [PR2 Database](http://ssu-rrna.org/)
+*   [RAxML](http://www.exelixis-lab.org/)
+*   [SeaView](http://doua.prabi.fr/software/seaview)
+*   [Silva](http://www.arb-silva.de/)
+*   [Trimal](http://trimal.cgenomics.org/)
+*   [Usearch](http://drive5.com/usearch/)
 
 ### Culture collections
 
@@ -47,25 +46,3 @@ header:
 * [UK National Culture Collection Archive](http://www.ukncc.co.uk/)
 * [United States Culture Collection Network](http://www.usccn.org/)
 * [World Federation of Culture Collections](http://www.wfcc.info/)
-
-### Meetings
-
-#### 2022
-  *  [ICRS 2022](http://www.icrs2021.de/), TBA, Bremen, Germany
-  *  [GRC Marine Microbes](https://www.grc.org/marine-microbes-conference/) TBA
-  *  [ISME 19](http://isme-microbes.org/) TBA
-
-#### 2023
-  *  [ASM Microbe 2023](https://www.asm.org/Events/ASM-Microbe/Home), June 15 – 19, Houston, TX, USA
-  *  [GRC Animal Microbes Symbiosis](https://www.grc.org/animal-microbe-symbioses-conference/) TBA
-  *  [GRC Marine Molecular Ecology](https://www.grc.org/marine-molecular-ecology-conference/) TBA
-
-### Workshops
-
-Workshops usually happen every year, that is why are organized by month. We will try to keep them updated.
-
-#### January
-  *  [Evomics. Annual Workshop on Genomics](http://evomics.org/) Český Krumlov, Czech Republic
-
-#### August
-  *   [MBL Workshop on Molecular Evolution](https://www.mbl.edu/education/courses/workshop-on-molecular-evolution/) Wood Hole, MA, USA

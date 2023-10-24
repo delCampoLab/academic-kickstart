@@ -1,5 +1,5 @@
 ---
-title: Protocols
+title: Journals
 summary: Here we describe how to add a page to your site.
 date: ""
 
@@ -13,41 +13,6 @@ header:
   caption: ""
   image: ""
 ---
-
-SCIENTISTS
-
-*   [Fabien Burki](http://www.fabienburki.net/)
-*   [Francesc Cebrià](http://regenerationinnature.wordpress.com/)
-*   [Thierry Heger](https://sites.google.com/site/hegerthierry/)
-*   [Naoji Yubuki](https://sites.google.com/site/naojiyubuki/)
-
-LABS
-
-*   [Alegado Lab](http://alegadolab.org/)
-*   [Armbrust Lab](http://armbrustlab.ocean.washington.edu/)
-*   [Center for Eukaryotic Evolutionary Microbiology](http://projects.exeter.ac.uk/ceem/)
-*   [ICM Microbis](http://www.icm.csic.es/bio/projects/icmicrobis/)
-*   [Keeling Lab](http://www3.botany.ubc.ca/keeling/)
-*   [The King Lab](http://kinglab.berkeley.edu/)
-*   [Multicell Genome Lab](http://www.multicellgenome.com/)
-*   [NHM Genomics and microbial diversity](http://www.nhm.ac.uk/research-curation/life-sciences/genomics-microbial-diversity/index.html)
-*   [Rohwer Lab](http://phuckitphage.org/)
-
-Some stuff I use to develop my research
-
-*   [Gblocks](http://molevol.cmima.csic.es/castresana/Gblocks.html)
-*   [MacQIIME](http://www.wernerlab.org/software/macqiime)
-*   [QIIME](http://qiime.org/)
-*   [MAFFT](http://mafft.cbrc.jp/alignment/software/)
-*   [mothur](http://www.mothur.org/)
-*   [PR2 Database](http://ssu-rrna.org/)
-*   [RAxML](http://www.exelixis-lab.org/)
-*   [SeaView](http://doua.prabi.fr/software/seaview)
-*   [Silva](http://www.arb-silva.de/)
-*   [Trimal](http://trimal.cgenomics.org/)
-*   [Usearch](http://drive5.com/usearch/)
-
-Where I would like to publish, and probably I won't.
 
 #### MICROBIAL ECOLOGY
 
