@@ -23,7 +23,7 @@ main:
     url: 'publication/'
     weight: 40
   - name: Resources
-    url: resources
+    identifier: resources
     weight: 50
   - name: Friends
     parent: resources
