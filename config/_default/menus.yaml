@@ -26,19 +26,25 @@ main:
     url: resources
     weight: 50
   - name: Friends
+    parent: resources
     url: 'page/friends/'
     weight: 1
   - name: Meetings
+    parent: resources
     url: 'page/meetings/'
     weight: 2
   - name: Societies
+    parent: resources
     url: 'page/societies/'
     weight: 3
   - name: Journals
+    parent: resources
     url: 'page/journals/'
-  - name: Tools
-    url: 'page/tools/'
     weight: 4
+  - name: Tools
+    parent: resources
+    url: 'page/tools/'
+    weight: 5
   - name: Join the Lab
     identifier: join
     weight: 60
