@@ -33,12 +33,12 @@ main:
     weight: 2
   - name: Societies
     url: 'page/societies/'
-    weight: 1
+    weight: 3
   - name: Journals
     url: 'page/journals/'
   - name: Tools
     url: 'page/tools/'
-    weight: 2
+    weight: 4
   - name: Join the Lab
     identifier: join
     weight: 60
