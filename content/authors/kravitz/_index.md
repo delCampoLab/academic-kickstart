@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSP Student
+role: MPS Student
 
 # Organizations/Affiliations
 organizations:
