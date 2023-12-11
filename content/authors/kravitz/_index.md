@@ -43,7 +43,7 @@ social:
 #   icon_pack: fab
 #   link:  https://twitter.com/Tyler_Lopez4
 #- icon: google-scholar
-   icon_pack: ai
+#   icon_pack: ai
 #   link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F771mQ6bV7YlSHWuZR3vjQJoGuXgK2FsASN1yGfLV5Phs5Gjt4J6Vkp2Fee1JMqgyuI2UwYfgDj-fDF4amJ9SfMz4kLrw&user=idhsWzwAAAAJ
 # - icon: orcid
 #   icon_pack: ai
