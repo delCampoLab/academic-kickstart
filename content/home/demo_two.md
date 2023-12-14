@@ -50,6 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-The lab is led by [Dr. Javier del Campo](https://delcampolab.com/author/javier-del-campo/) and is part of the [Institute of Evolutionary Biology (CSIC-UPF)](https://www.ibe.upf-csic.es/) and the [Rosenstiel School of Marine, Atmospheric and Earth Science](https://www.rsmas.miami.edu).
+The lab is led by [Dr. Javier del Campo](https://delcampolab.com/author/javier-del-campo/) and is part of the [Institute of Evolutionary Biology (CSIC-UPF)](https://www.ibe.upf-csic.es/) and the [Rosenstiel School of Marine, Atmospheric and Earth Science](https://www.rsmas.miami.edu). The lab is also part of the [Diversity of Eukaryotic Microorganisms Consortium (DEMON)](http://demon-protists.eu/), a European consortium devoted to the study of the molecular biology, biochemistry, taxonomy, physiology, and ecology of protists from almost all kinds of environments.
 
-Our research of interest include Microbiology, Ecology and Evolution, which we study using "omics", imaging and bioinformatics. We are always keen to recruit new lab members if you are interested please [contact us](https://delcampolab.github.io/#contact).
+Our research of interest includes Microbiology, Ecology and Evolution, which we study using "omics", imaging and bioinformatics. We are always keen to recruit new lab members if you are interested please [contact us](https://delcampolab.github.io/#contact).
