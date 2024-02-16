@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Lab Manager
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ibe.upf-csic.es/home"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research will consist on using genetic and molecular biology tools to study the protists symbionts of the Mediterranean coral *Paramuricea clavata*.
+bio: My research will consist on using genetic and molecular biology tools coupled with imaging to study the protists symbionts of Mediterranean corals.
 
 interests:
 - Genetics
@@ -77,7 +77,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Laboratory Technicians
+- Graduate Students
 ---
 
-I completed my BS in Biochemistry at Pace University (NY), where I was a division II NCAA student-athlete. My undergraduate thesis focused on understanding the cellular and molecular processes that enable hair cell regeneration in zebrafish, with the purpose of potentially developing new treatments for hearing loss in humans. After graduating, I worked as a Research Associate at the Center for Disease Neurogenomics in the Icahn School of Medicine at Mount Sinai, where we used single-cell omics to study neurodegenerative diseases. My interest in marine science and environmental issues led me to slightly change career paths and I am currently completing an M.S. in Oceanography and Marine Environmental Management at the University of Barcelona. I am very excited to be joining the del Campo lab at the Institute for Evolutionary Biology to complete my masters thesis. My research will consist on using genetic and molecular biology tools to study the protists symbionts of the Mediterranean coral *Paramuricea clavata*.
+I completed my BS in Biochemistry at Pace University (NY), where I was a division II NCAA student-athlete. My undergraduate thesis focused on understanding the cellular and molecular processes that enable hair cell regeneration in zebrafish, with the purpose of potentially developing new treatments for hearing loss in humans. After graduating, I worked as a Research Associate at the Center for Disease Neurogenomics in the Icahn School of Medicine at Mount Sinai, where we used single-cell omics to study neurodegenerative diseases. My interest in marine science and environmental issues led me to slightly change career paths and I  completed an M.S. in Oceanography and Marine Environmental Management at the University of Barcelona. I am now joining the del Campo lab at the Institute for Evolutionary Biology as a PhD student. My research will consist on using genetic and molecular biology tools to study the protists symbionts of Mediterranean corals.
