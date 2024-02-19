@@ -21,11 +21,11 @@ organizations:
 bio: My current research focuses on building Metagenome Assembled Genomes of coral symbionts.
 
 interests:
--	Marine science
--	Marine environment sensors
--	Marine ecology
--	Mediterranean
--	Global change
+- Marine science
+- Marine environment sensors
+- Marine ecology
+- Mediterranean
+- Global change
 
 education:
   courses:
