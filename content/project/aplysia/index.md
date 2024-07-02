@@ -4,7 +4,7 @@ summary: The microbiome of the neurobiology model organism Aplysia californica.
 tags:
 - microbiome
 - gastropods
-# date: "2016-04-27T00:00:00Z"
+date: ""
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

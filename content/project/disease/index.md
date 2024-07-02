@@ -2,11 +2,11 @@
 title: Koch at the reef - Understanding coral disease
 summary: A systems biology approach to the study of reef corals infectious diseases.
 tags:
-- Coral
-- Holobiont
-- Metabarcoding
-- Transcriptomics
-- Disease
+- coral
+- holobiont
+- metabarcoding
+- transcriptomics
+- disease
 date: "2024-06-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -31,7 +31,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 Corals are host to a mixture of microbes containing prokaryotes, protists, and viruses that play critical functional roles within their host. During unfavourable environmental conditions the coral immunity gets compromised, fostering proliferation of alien pathogens, or previously residential microbes that become malicious. Corals are considered relatively resilient with respect to short-term stress events, with a molecular toolkit that provide mechanisms to mitigate physicochemical changes. Coral disease can persist over months/years, pushing the coral into a stressed state for long-periods of time. Stress events ultimately breakdown homeostasis, disrupting the normal processes involved in routine maintenance, shuttling resources to build immune-related proteins and enzymes. Corals are susceptible to a wide variety of maladies that have critical impacts on host physiology, fecundity, and survivorship. In severe cases, epizootics such as Stony Coral Tissue Loss Disease (SCTLD) outbreak can spread through entire reefscapes turning vibrant complex communities from reefs to rubble. Many other coral diseases have persisted on reefs through time, having chronic effects on coral reef succession.

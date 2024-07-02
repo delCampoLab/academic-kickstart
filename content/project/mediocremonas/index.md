@@ -3,6 +3,7 @@ title: The genome of *Mediocremonas mediterraneus*
 summary: Generation of the reference genome of *Mediocremonas mediterraneus* as part of the Catalan Biogenome Project
 tags:
 - earthbiogenome
+- biogenoma
 - protists
 - genomes
 
@@ -30,7 +31,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 There is a significant bias in eukaryotic genomics that impoverishes our understanding of the diversity of eukaryotes, and leads to skewed views of what a eukaryote even is, as well as their role in the environment. This bias is simple and widely recognized: most genomics focuses on multicellular eukaryotes. Around 85% of the eukaryotic genomes correspond to multicellular organisms, either Metazoa, Fungi, or Land Plants. However, these lineages only represent 62% of the 18S rDNA GenBank sequences, which is a biased sample anyway, or 23% of all operational taxonomic units (OTUs) in environmental surveys. This makes for a pitiful future if we aim to understand and appreciate the whole eukaryotic tree of life. We need to change this trend, or we are going to neglect most eukaryotic diversity in the future genomic or metagenomic-based ecological and evolutionary studies. In this project we will generate the genome of *Mediocremonas mediterraneus* (Blanes Bay, Catalonia),a heterotrophic nanoflagellate belonging to the Developea within the supergroup Stramenopiles. Based on phylogenomics the Developea are sister to all the photosynthetic Stramenopiles (Diatoms, Kelps, etc.). The phylogenetic position of *M. mediterraneus* s makes it a good candidate to study the rise of photosynthesis in Stramenopiles.
