@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Student
+role: MSc Student
 
 # Organizations/Affiliations
 organizations:
@@ -81,7 +81,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate
+- Graduate Students
 ---
 
 I am a scuba diver and coral enthusiast from Albania, with a Bachelor of Advanced Science in Marine Biology from James Cook University, Australia. With the Great Barrier Reef on my doorstep, I took up every opportunity to be amongst it. I ran courses and organised diving day trips for the uni dive club; volunteered as diver for a reef monitoring expedition; collected samples underwater with Dr. Katharina Fabricius and her lab members studying acidification impacts on inshore reefs. On land I enjoyed coding in R, tutoring part time an introductory modelling subject at my university. Under Dr. Scott Heron I modelled frequency of extreme low tides in Guam to predict reef vulnerability to subaerial exposure. For Dr. Line Bay’s lab at the Australian Institute of Marine Science I monitored and analysed growth of *Acropora loripes* fragments subjected to different temperature treatments. I am fascinated by corals, and keen to keep studying them in the del Campo lab. For my M.Sc thesis I’m looking into the eukaryotic and bacterial communities within the *Leptogorgia sarmentosa* holobiont using metabarcoding and transcriptomics.
