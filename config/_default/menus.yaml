@@ -50,16 +50,20 @@ main:
     weight: 60
   - name: Fellowships
     parent: join
-    url: 'page/fellowships/'
+    url: 'page/phdoffer'
     weight: 1
+  - name: Fellowships
+    parent: join
+    url: 'page/fellowships/'
+    weight: 2
   - name: Internships
     parent: join
     url: 'page/internships/'
-    weight: 2
+    weight: 3
   - name: Contact
     parent: join
     url: '#contact'
-    weight: 3
+    weight: 4
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
