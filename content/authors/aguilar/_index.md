@@ -32,7 +32,7 @@ education:
   - course: MSc in Oceanography
     institution: Universitat  de Barcelona
     year: 2024
-  - course: BSc in Marine Sciences
+  - course: BSc in Biology
     institution: Universidad EAFIT
     year: 2022
 
