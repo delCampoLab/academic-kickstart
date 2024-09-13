@@ -22,6 +22,7 @@ content:
   - Laboratory Technicians
   - Graduate Students
   - Undergraduate Students
+  - Collaborators
 
 design:
   show_interests: false
