@@ -87,7 +87,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Alumni
 ---
 
 I graduated from the Rosenstiel School of Marine and Atmospheric Science at the University of Miami in 2019 with a B.S. in Marine Science and Biology. During my senior year of undergrad, I completed an undergraduate thesis where I looked at population and mortality estimates of resident nurse sharks at Glover’s Reef Marine Reserve, Belize using a Bayesian state-space mark-recapture model. After graduating, I entered RSMAS as a M.P.S. student in 2019 and officially switched to the M.S. program in the beginning of 2020. Now an M.S. student, I am interested in sequencing the microbiome of the well-studied marine gastropod, Aplysia californica. My work will for the first time be looking at the composition of prokaryotes and microeukaryotes that make up the Aplysia microbiome both internally and externally. Based off what I find, I will then look at how altering the microbiome of Aplysia affects its behavior. In my spare time, I enjoy SCUBA diving, snorkeling, swimming, traveling, sky diving, crocheting, and sewing.

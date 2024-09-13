@@ -74,7 +74,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Alumni
+- Collaborators
 ---
 
 I graduated with honors from the University of Miami with Bachelor’s degrees in Marine Science and Microbiology & Immunology. During my undergraduate studies, I worked in the Cnidarian Immunity Lab at RSMAS where I wrote my senior thesis on the compartmentalization of the microbiome in the starlet sea anemone, *Nematostella vectensis*. During my sophomore year, I was awarded the NOAA Ernest F. Hollings Scholarship which allowed me to research the microbiomes of multiple coral species along the Florida Keys Reef Tract. I presented this research at the NOAA headquarters in Silver Spring, Maryland. I continued to work at NOAA before starting graduate school, focusing on Microbial Source Tracking and water quality testing. I began my PhD in the del Campo Microbial Ecology and Evolution Lab in Fall 2019. My current research focuses on understanding the roles of micro-eukaryotes and bacteria in marine organisms. Initially, I will be researching the coral holobiont during bleaching from a single-cell perspective.

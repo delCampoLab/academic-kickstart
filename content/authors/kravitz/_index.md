@@ -72,7 +72,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Alumni
 ---
 
 I graduated from Temple University in 2016 with a major in Classics and a minor in Biology, previously focusing on history of science and ecology of invasive species during Greco-Roman antiquity. After working as a middle school science teacher in Philadelphia and volunteering at the Adventure Aquarium in New Jersey, I started the MPS program at the Rosenstiel School in Fall 2022 for Fisheries Management and Conservation. My current research is investigating the role of the gut microbiome in calcium carbonate precipitation in the Gulf toadfish. Outside of my studies I am a professional illustrator and love to cook. I currently work as a high school biology teacher in Miami.
