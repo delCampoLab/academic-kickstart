@@ -14,6 +14,11 @@ header:
   image: ""
 ---
 
+### Data visualization and figure design
+
+*   [Bioicons](https://bioicons.com/), an alternative to BioRender under Creative Commons licenses
+*   [PhyloPic](https://www.phylopic.org/), beautyful silhouettes of life under Creative Commons licenses
+
 ### Computational Tools
 
 *   [Gblocks](http://molevol.cmima.csic.es/castresana/Gblocks.html)
