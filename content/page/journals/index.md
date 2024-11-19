@@ -16,7 +16,7 @@ header:
 
 #### Microbial Ecology
 
-*   Applied and Environmental Microbiology
+*   [Applied and Environmental Microbiology](https://journals.asm.org/journal/aem)
 *   Aquatic Microbial Ecology
 *   Environmental Microbiology
 *   Environmental Microbiology Reports

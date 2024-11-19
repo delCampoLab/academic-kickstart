@@ -77,7 +77,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Alumni
 ---
 
 I am a Master's student in Oceanography at the University of Barcelona. I earned my Bachelor's degree in Biology at Eafit University in Medellin, Colombia. Throughout my life, I have had a close relationship with the sea and its communities in the Colombian Caribbean. I am a dive master and a sailor of small sailboats. My undergraduate thesis focused on an inventory and evolution of coral diseases in the Rosario Islands Natural Park over the course of a year. I have also volunteered in coral nursery projects and served as a diving support in research aimed at developing substrates for corals from non-contaminating waste from the construction industry. The biodiversity of my country, the social issues I encountered working with coastal communities, and my connection with the sea decisively influenced me to orient my life around the ocean. Although there are many topics in ocean biology that I am passionate about, corals represent one of the most important academic and conservation challenges for me. Currently, I am developing my Master's thesis in del Campo Lab. I am part of a team investigating microbial photosymbiont guilds as a source of resilience to bleaching in corals. My interest lies in learning from large-scale interdisciplinary work and collaborating with the laboratory and the community in studying symbiosis phenomena within corals.

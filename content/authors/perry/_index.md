@@ -78,7 +78,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Alumni
 ---
 
 I currently have a BSc in Marine Biology from Swansea University and an MSc in Medicinal Chemistry from the Open University. During my MSc I joined a research group studying the SARS-CoV-2 genome, specifically simple biplanar adenine quadruplexes, and their potential to fold in sequences of the viral genome. Using these concepts, I designed a drug to target the SARS-CoV-2 main protease and shared this information in the form of my dissertation. My thesis was selected for funding and eventually published in the Journal of Computation Biophysics and Chemistry. Since my studies, I have worked in the pharmaceutical sector in diagnostics, research, data and document analysis. I am currently undertaking a second Masters in Omics Data Analysis with University of Vic - Central University of Catalonia.

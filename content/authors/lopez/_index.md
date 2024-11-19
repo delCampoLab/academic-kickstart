@@ -77,7 +77,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Alumni
 ---
 
 I am a first year Master of Professional Science (MPS) student at the University of Miami’s Rosenstiel School of Marine, Atmospheric, and Earth Sciences. I completed my B.S in Marine Biology at Florida International University (FIU) as well as graduating from their honors College. During this time I worked in two labs, the first was under Dr. Jone Corrales while looking at the effect of copper on the olfactory system within predator and prey relationships. The second was under Dr. Mauricio Rodríguez-Lanetty in the laboratory of Integrative Marine Genomics and Symbiosis (IMaGeS Lab) while looking at the effect of bleaching on coral symbionts and recovery rates in Aiptasia anemones. During my time in the del Campo Lab I am looking forward to doing research on advancing long-read sequencing in marine microbiomes as well as coral disease in the Florida Reef Tract. In my free time I enjoy freediving, spearfishing, and any and all boating activities.

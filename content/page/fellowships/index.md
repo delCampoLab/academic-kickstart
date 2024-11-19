@@ -107,8 +107,15 @@ header:
 
 ### --- By Country ---
 
+
+#### USA - :us: [Life Science Research Foundation Award](https://lsrf.org/apply/award-details/)
+  * _Description_: The LSRF award provides three (3) years of support to a named postdoctoral researcher at a non-profit university or research institution. The award is paid to the university or research institution where the researcher is carrying out their project and is solely for the benefit of the named researcher. It is not a gift or donation and should not be classified as such.
+  * _Duration_: 3 years.
+  * _Eligibility_: Only U.S. citizens are eligible to work in any geographic location. Applicants must apply within 5 years of receiving their PhD. We will also consider candidates who obtained their qualification more than ten The application requires a letter of acceptance from your proposed postdoctoral supervisor (the Principal Investigator of the lab where you will conduct your postdoctoral training).
+  * _Deadline_: Rolling.
+
 #### Japan  - :jp: [Canon Foundation Research Fellowships](https://www.canonfoundation.org/programmes/research-fellowships/)
-  * _Description_: Annually, the Canon Foundation in Europe grants up to 15 Fellowships to highly qualified European and Japanese researchers. European Fellows are expected to pursue a period of research in Japan whereas Japanese Fellows are expected to do their research in Europe. Japanese Canon Fellows are free to choose their host institutes and hosts in Europe. Canon Foundation Research Fellowships may be applied for when an agreement on co-operation and on a research plan has been reached between the guest researcher and the proposed host institution
+  * _Description_: Annually, the Canon Foundation in Europe grants up to 15 Fellowships to highly qualified European and Japanese researchers. European Fellows are expected to pursue a period of research in Japan whereas Japanese Fellows are expected to do their research in Europe. Japanese Canon Fellows are free to choose their host institutes and hosts in Europe. Canon Foundation Research Fellowships may be applied for when an agreement on co-operation and on a research plan has been reached between the guest researcher and the proposed host institution.
   * _Duration_: 3 months to 1 year.
   * _Eligibility_: Only Japanese researchers are eligible to do their research in Europe. Applicants should have obtained at least a Master's or PhD degree within the last ten years of applying to the Canon Foundation. We will also consider candidates who obtained their qualification more than ten years ago as long as they provide further supporting information in their application.
   * _Deadline_: September.
