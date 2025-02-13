@@ -14,8 +14,8 @@ role: MSc Student
 
 # Organizations/Affiliations
 organizations:
-- name: Institut de Biologia Evolutiva
-  url: "https://www.ibe.upf-csic.es/"
+- name: Institut de Biologia Evolutiva (CSIC - Universitat Pompeu Fabra)
+  url: "https://www.ibe.upf-csic.es/home"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My current research focuses on incorporating whole rRNA operon information to reference databases.

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Joana Krause
+title: Joana Krause-Massaguer
 
 # Username (this should match the folder name)
 authors:
@@ -44,12 +44,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:joanakrause99@gmail.com"
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/AMBonacolta
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?hl=en&user=nVxjagoAAAAJ
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/@Joanakrause99
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.es/citations?user=8ByfW0cAAAAJ&hl
 #- icon: orcid
 #  icon_pack: ai
 #  link: https://orcid.org/0000-0003-1439-5907
