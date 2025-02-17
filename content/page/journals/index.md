@@ -17,14 +17,15 @@ header:
 #### Microbial Ecology
 
 *   [Applied and Environmental Microbiology](https://journals.asm.org/journal/aem)
-*   Aquatic Microbial Ecology
-*   Environmental Microbiology
-*   Environmental Microbiology Reports
-*   FEMS Microbiology Ecology
-*   Microbes and Environments
-*   Microbial Ecology
-*   The ISME Journal
-*   ISME Communications
+*   [Aquatic Microbial Ecology](https://www.int-res.com/journals/ame/ame-home/)
+*   [Environmental Microbiology](https://enviromicro-journals.onlinelibrary.wiley.com/journal/14622920)
+*   [Environmental Microbiology Reports](https://enviromicro-journals.onlinelibrary.wiley.com/journal/17582229)
+*   [FEMS Microbiology Ecology](https://academic.oup.com/femsec)
+*   [Microbes and Environments](https://www.microbes-and-environments.jp/)
+*   [Microbial Ecology](https://link.springer.com/journal/248)
+*   [The ISME Journal](https://academic.oup.com/ismej)
+*   [ISME Communications](https://academic.oup.com/ismecommun)
+*   [Environmental Microbiome](https://environmentalmicrobiome.biomedcentral.com/)
 
 #### Protistology
 
@@ -50,11 +51,11 @@ header:
 
 #### Microbiology
 
-* Nature Microbiology
-* mBio
-* mSystems
-* Microbiome
-* Animal Microbiome
+*   Nature Microbiology
+*   mBio
+*   mSystems
+*   Microbiome
+*   Animal Microbiome
 
 
 #### General Biology
