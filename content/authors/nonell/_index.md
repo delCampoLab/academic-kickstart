@@ -44,7 +44,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:jordi.nonell@ibe.upf-csic.es"
-- icon: bluesky
+- icon: twitter
   icon_pack: fab
   link: https://bsky.app/profile/jnonell.bsky.social
 #- icon: google-scholar
@@ -80,4 +80,4 @@ user_groups:
 - Graduate Students
 ---
 
-I finished my BSc in Biology at the University of Barcelona back in 2022 after completing my undergraduate thesis on the role of catalases in the infection of Ralstonia solanacearum in tomato plants. Later on, I pursued an MSc in bioinformatics at the Universitat Oberta de Catalunya, which not only allowed me to work on the assembly of the genome of Minorisa minuta, the smallest predator in the ocean, but also earned me the messianic status of “the computer guy” in the del Campo Lab. At the moment I’m writing this, I’m just starting a PhD as part of this great team, in which, as of now, I’m focusing on unveiling some clues about the dark proteome of the Mediterranean corals and their microbiome.
+I finished my BSc in Biology at the University of Barcelona back in 2022 after completing my undergraduate thesis on the role of catalases in the infection of *Ralstonia solanacearum* in tomato plants. Later on, I pursued an MSc in bioinformatics at the Universitat Oberta de Catalunya, which not only allowed me to work on the assembly of the genome of *Minorisa minuta*, the smallest predator in the ocean, but also earned me the messianic status of “the computer guy” in the del Campo Lab. At the moment I’m writing this, I’m just starting a PhD as part of this great team, in which, as of now, I’m focusing on unveiling some clues about the dark proteome of the Mediterranean corals and their microbiome.
