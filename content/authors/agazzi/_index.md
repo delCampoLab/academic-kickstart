@@ -14,8 +14,8 @@ role: Coral Genomics Technician
 
 # Organizations/Affiliations
 organizations:
-- name: Università degli Studi di Milano-Bicocca
-  url: "https://en.unimib.it/"
+- name: Institut de Biologia Evolutiva (CSIC - Universitat Pompeu Fabra)
+  url: "https://www.ibe.upf-csic.es/home"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research will consist on using molecular biology tools to study the microbial and functional heterogeneity of Mediterranean coral corlonies.
@@ -29,6 +29,9 @@ interests:
 
 education:
   courses:
+  - course: MSc in Marine Sciences
+    institution: Università degli Studi di Milano-Bicocca
+    year: 2024
   - course: BSc in Biological Sciences
     institution: Università degli Studi di Milano-Bicocca
     year: 2021
@@ -41,9 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:agazzi.matteo@outlook.com "
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/AMBonacolta
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/Matteo__Agazzi
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?hl=en&user=nVxjagoAAAAJ
