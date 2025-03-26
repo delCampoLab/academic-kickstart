@@ -32,7 +32,7 @@ education:
   - course: MSc in Bioinformatics
     institution: Universitat Oberta de Catalunya
     year: 2024
-- course: BSc in Microbiology & Immunology, BSc in Marine and Atmospheric Science (graduated with honors)
+  - course: BSc in Microbiology & Immunology, BSc in Marine and Atmospheric Science (graduated with honors)
     institution: Universidad de Barcelona
     year: 2022
 
