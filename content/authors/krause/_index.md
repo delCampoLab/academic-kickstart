@@ -53,9 +53,9 @@ social:
 #- icon: orcid
 #  icon_pack: ai
 #  link: https://orcid.org/0000-0003-1439-5907
-#- icon: researchgate
-#  icon_pack: ai
-#  link: https://www.researchgate.net/profile/Anthony_Bonacolta
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Joana-Krause-Massaguer
 - icon: github
   icon_pack: fab
   link: https://github.com/joanakrause
